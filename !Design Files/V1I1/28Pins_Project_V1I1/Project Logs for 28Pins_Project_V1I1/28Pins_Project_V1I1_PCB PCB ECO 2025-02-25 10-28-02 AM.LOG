@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=+5V/3V3 Pin=FB2-1
+Added Pin To Net: NetName=+5V/3V3_328P_VCC Pin=FB2-2
+Added Pin To Net: NetName=+5V/3V3 Pin=FB3-1
+Added Pin To Net: NetName=+5V/3V3_328P_AVCC Pin=FB3-2

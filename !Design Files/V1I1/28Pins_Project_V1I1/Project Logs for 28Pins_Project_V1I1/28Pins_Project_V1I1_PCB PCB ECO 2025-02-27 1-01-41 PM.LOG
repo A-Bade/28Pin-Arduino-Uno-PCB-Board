@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=328P RESETn Pin=JP3-1
+Added Component: Designator=FID1(FID_40x120D)
+Added Pin To Net: NetName=328P_RESETn Pin=JP3-1
+Change Net Color : Old Net Color=RGB(17, 3, 127) New Net Color=Default
